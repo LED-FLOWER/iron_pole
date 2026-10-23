@@ -1,0 +1,9 @@
+{
+  "name": "iron_pole",
+  "version": "1.0.0",
+  "title": "Easy Electric Pole",
+  "author": "ChatGPT",
+  "description": "Craft two small electric poles using one iron plate and one copper cable.",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"]
+}
